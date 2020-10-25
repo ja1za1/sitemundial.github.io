@@ -1,0 +1,358 @@
+@font-face {
+    font-family: 'fontetitulo';
+    src: url('fonts/godofwar-webfont.woff2') format('woff2'),
+         url('fonts/godofwar-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+body {
+	background-color: #FF6347;
+}
+
+a {
+	text-decoration: none;
+}
+
+#topo {
+	height: 90px;
+	border: 1px solid;
+	background-color: black;
+	line-height: 90px;
+	
+
+}
+
+#logoworlds {
+	float: right;
+	width: 70px;
+	height: 90px;
+	margin-right: 20px;
+}
+
+#tituloindice {
+	text-align: left;
+	margin-top: 10px;
+	margin-left: 40px;
+	width: 850px;
+}
+
+#indice {
+	margin-left: 40px;
+	line-height: 30px;
+}
+
+#inicio {
+	color: #FF6347;
+	font-size: 30px;
+	font-family: 'fontetitulo';
+	margin-left: 20px;
+	text-decoration: none;
+
+}
+
+#inicio:hover {
+	color: red;
+
+}
+
+#musicas {
+	color: #FF6347;
+	font-size: 30px;
+	font-family: 'fontetitulo';
+	margin-left: 20px;
+	text-decoration: none;
+}
+
+#musicas:hover {
+	color: red;
+}
+
+#timeshtml {
+	color: #FF6347;
+	font-size: 30px;
+	font-family: 'fontetitulo';
+	margin-left: 20px;
+	text-decoration: none;
+}
+
+#timeshtml:hover {
+	color: red;
+}
+
+#titulomund {
+	color: #000;
+	text-align: left;
+	font-size: 40px;
+	font-family: 'fontetitulo';
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+	margin-left: 40px;
+}
+
+
+#textoinicial {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 40px;
+	width: 850px;
+
+}
+
+#allteams {
+	height: 450px;
+	width: 900px;
+	margin-top: 10px;
+}
+
+#teams {
+	margin-left: 180px;
+}
+
+#tituloplayin {
+	color: #000;
+	text-align: left;
+	font-size: 40px;
+	font-family: 'fontetitulo';
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+	margin-left: 40px;
+
+}
+
+#textoplayin {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 40px;
+	width: 850px;
+}
+
+
+.times {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 60px;
+	
+
+}
+
+.playin {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-left: 40px;
+	width: 850px;
+	margin-bottom: 40px;
+
+}
+
+#intz {
+	height: 140px;
+	width: 140px;
+}
+
+#v3esports {
+	height: 140px;
+	width: 140px;
+}
+
+#legacyesports {
+	height: 140px;
+	width: 140px;
+}
+
+#uol {
+	height: 140px;
+	width: 140px;
+}
+
+#rainbow7 {
+	height: 140px;
+	width: 140px;
+}
+
+#supermassive {
+	height: 140px;
+	width: 140px;
+}
+
+#psgtalon {
+	height: 140px;
+	width: 140px;
+}
+
+#teamliquid {
+	height: 140px;
+	width: 140px;
+}
+
+#lgdgaming {
+	height: 140px;
+	width: 140px;
+}
+
+#madlions {
+	height: 140px;
+	width: 140px;
+}
+
+.potes {
+	text-align: left;
+	font-size: 18px;
+	margin-left: 60px;
+	width: 850px;
+	margin-bottom: 40px;
+	margin-top: 30px;
+
+}
+
+#grupos {
+	height: 450px;
+	width: 800px;
+	margin-top: 10px;
+}
+
+#gruposplayin {
+	margin-left: 320px;
+}
+
+#eliminentrada {
+	height: 450px;
+	width: 800px;
+	margin-top: 10px;
+}
+
+#eliminatoriaentrada {
+	margin-left: 300px;
+}
+
+#titulofasedegrupos {
+	color: #000;
+	text-align: left;
+	font-size: 40px;
+	font-family: 'fontetitulo';
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+	margin-left: 40px;
+}
+
+.textofasegrupos {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 40px;
+	width: 850px;
+}
+
+.todostimes {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+
+.timesfasegrupos {
+	height: 140px;
+	width: 140px;
+}
+
+#groupstage {
+	height: 450px;
+	width: 800px;
+	margin-top: 10px;
+}
+
+#txtgroupstage {
+	margin-left: 200px;
+}
+
+#titulofaseeliminatoria {
+	color: #000;
+	text-align: left;
+	font-size: 40px;
+	font-family: 'fontetitulo';
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+	margin-left: 40px;
+}
+
+.textofaseeliminatoria {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 40px;
+	width: 850px;
+}
+
+#faseeliminatoria {
+	height: 450px;
+	width: 780px;
+	margin-top: 10px;
+
+}
+
+#textknockout {
+	margin-left: 200px;
+
+}
+
+#tituloatual {
+	color: #000;
+	text-align: left;
+	font-size: 40px;
+	font-family: 'fontetitulo';
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+	margin-left: 40px;
+}
+
+.textoatual {
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 40px;
+	width: 850px;
+}
+
+#atual {
+	height: 450px;
+	width: 820px;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+
+#botaoriot {
+	border: 1px solid;
+	border-radius: 8px;
+	border-color: #800000;
+	cursor: pointer;
+	margin-left: 200px;
+	margin-top: 20px;
+	height: 40px;
+	width: 200px;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #8B0000;
+
+}
+
+#botaoriot:hover {
+	background: linear-gradient(to bottom,#f61f0e 5%, #fca8a1 100%);
+}
+
+.soon {
+	text-align: center;
+	margin-top: 200px;
+}
