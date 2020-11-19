@@ -1,0 +1,432 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+body {
+	background-color: #FF6347;
+}
+
+
+}
+
+a {
+	text-decoration: none;
+
+}
+
+li {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+
+#topo {
+	width: 100%;
+	background-color: black;
+	line-height: 90px;
+	
+}
+
+#logoworlds {
+	float: right;
+	width: 70px;
+	height: 90px;
+	margin-right: 20px;
+}
+
+#tituloindice {
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+#indice {
+	line-height: 30px;
+}
+
+#inicio {
+	color: #FF6347;
+	font-size: 30px;
+	margin-left: 20px;
+	text-decoration: none;
+
+}
+
+#inicio:hover {
+	color: red;
+
+}
+
+#musicas {
+	color: #FF6347;
+	font-size: 30px;
+	margin-left: 20px;
+	text-decoration: none;
+}
+
+#musicas:hover {
+	color: red;
+}
+
+#timeshtml {
+	color: #FF6347;
+	font-size: 30px;
+	margin-left: 20px;
+	text-decoration: none;
+}
+
+#timeshtml:hover {
+	color: red;
+}
+
+#titulomund {
+	color: #000;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+
+}
+
+
+#textoinicial {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+
+
+}
+
+#allteams {
+	height: 500px;
+	margin-top: 10px;
+}
+
+#teams { 
+	text-align: center;
+}
+
+#tituloplayin {
+	color: #000;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+	margin-left: 40px;
+
+}
+
+#textoplayin {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+
+
+.times {
+	font-size: 18px;
+	margin-top: 10px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 30px;
+	width: 420px;
+	
+
+}
+
+.playin {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-left: 20px;
+
+}
+
+div > img ~ p {
+	text-align: center;
+	display: flex;
+}
+
+#playin1 {
+	text-align: center !important;
+}
+
+#playin3 {
+	text-align: center !important;
+}
+
+#intz {
+	height: 140px;
+	width: 140px;
+}
+
+
+
+#v3esports {
+	height: 140px;
+	width: 140px;
+}
+
+
+#legacyesports {
+	height: 140px;
+	width: 140px;
+}
+
+#uol {
+	height: 140px;
+	width: 140px;
+}
+
+#rainbow7 {
+	height: 140px;
+	width: 140px;
+}
+
+#supermassive {
+	height: 140px;
+	width: 140px;
+}
+
+#psgtalon {
+	height: 140px;
+	width: 140px;
+}
+
+#teamliquid {
+	height: 140px;
+	width: 140px;
+}
+
+#lgdgaming {
+	height: 140px;
+	width: 140px;
+}
+
+#madlions {
+	height: 140px;
+	width: 140px;
+}
+
+.potes {
+	text-align: center;
+	font-size: 18px;
+	margin-bottom: 40px;
+	margin-top: 30px;
+
+}
+
+#grupos {
+	height: 450px;
+	width: 800px;
+	margin-top: 10px;
+}
+
+#gruposplayin {
+	text-align: center;
+}
+
+#eliminentrada {
+	height: 400px;
+	margin-top: 10px;
+}
+
+#EE {
+	text-align: center;
+}
+
+#eliminatoriaentrada {
+	text-align: center;
+}
+
+#titulofasedegrupos {
+	color: #000;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+}
+
+.textofasegrupos {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.todostimes {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.timesfasegrupos {
+	height: 120px;
+	width: 120px;
+}
+
+#groupstage {
+	height: 450px;
+	width: 800px;
+	margin-top: 10px;
+}
+
+#txtgroupstage {
+	text-align: center;
+}
+
+#titulofaseeliminatoria {
+	color: #000;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+}
+
+.textofaseeliminatoria {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+#faseeliminatoria {
+	height: 450px;
+	width: 780px;
+	margin-top: 10px;
+
+}
+
+#textknockout {
+	text-align: center;
+
+}
+
+#tituloatual {
+	color: #000;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+}
+
+.textoatual {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+#atual {
+	height: 450px;
+	width: 820px;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+
+#botaoriot {
+	border: 1px solid;
+	border-radius: 8px;
+	border-color: #800000;
+	cursor: pointer;
+	margin-top: 20px;
+	height: 40px;
+	width: 200px;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #8B0000;
+
+
+}
+
+#buttao {
+	text-align: center;
+}
+
+#botaoriot:hover {
+	background: linear-gradient(to bottom,#f61f0e 5%, #fca8a1 100%);
+}
+
+.soon {
+	text-align: center;
+	margin-top: 200px;
+}
+
+#formulario {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+form {
+	text-align: center;
+}
+
+#nome {
+	height: 28px;
+	width: 250px;
+	margin-bottom: 10px;
+
+}
+
+#email {
+	height: 28px;
+	width: 250px;
+}
+
+#msg {
+	height: 60px;
+	width: 500px;
+	margin-top: 10px;
+}
+
+#enviar {
+	width: 80px;
+	height: 30px;
+
+}
+
+#backtop {
+	text-align: center;
+	margin-top: 10px;
+}
+
+#btop {
+	text-decoration: none;
+}
+
+#bordform {
+	border: 3px solid;
+	margin-top: 20px;
+	margin-left: 420px;
+	margin-right: 420px;
+	align-content: center;
+	text-align: center;
+}
+
+.msc {
+	margin-top: 30px;
+	text-align: center;
+	display: inline-block;
+	width: 800px;
+}
+
+#titulomsc {
+	color: #000;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+	text-shadow: 1px 1px 2px;
+
+}
+
+#txtmusicas {
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
