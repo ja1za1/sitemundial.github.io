@@ -9,11 +9,12 @@ var butenviar = document.querySelector("#enviar")
 
 
 
-butenviar.onclick = function() {
+butenviar.onclick = function(e) {
     invalidonome.style.display = "none"
     invalidoemail.style.display = "none"
     invalidomsg.style.display = "none"
     sucesso.style.display = "none"
+    e.preventDefault();
     if(nome.value.length > 15 || nome.value == "" || !nome.value.trim () ){
         invalidonome.style.display = "block";
         
