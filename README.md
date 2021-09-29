@@ -1,2 +1,2 @@
-# Worlds LOL website
+# LOL Worlds website
 Website made for a college assignment
